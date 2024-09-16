@@ -1,0 +1,14 @@
+base address: 0x00000000
+board name: 
+cmdline: console=ttyS1,115200n8
+dtb offset: None
+header version: 0
+image type: AOSP
+kernel offset: 0x00008000
+original size: 7158784
+os version: None
+page size: 2048
+ramdisk compression: gzip
+ramdisk offset: 0x01000000
+sigtype: None
+tags offset: 0x00000100
